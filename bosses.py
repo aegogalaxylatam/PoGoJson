@@ -34,7 +34,7 @@ def download_pokemon_image_url(pokemon_number):
     image_url = f"imagedata/pkmon/{cleaned_number}.png"
     return image_url
 
-# Definir la URL de la página web
+# Definir la URL de la página web 
 url = "https://pokemongo.fandom.com/wiki/List_of_current_Raid_Bosses"
 
 # Realizar la solicitud HTTP y obtener el contenido de la página
