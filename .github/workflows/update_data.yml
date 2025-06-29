@@ -25,8 +25,8 @@ jobs:
             pip install requests
             pip install beautifulsoup4
     
-        # - name: Run Python Script
-        #   run: python bosses.py
+        - name: Run Python Script
+          run: python bosses.py
         
         # - name: Run Python Script
         #   run: python eggs.py
