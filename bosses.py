@@ -23,15 +23,14 @@ def get_absolute_path(relative_path):
     return absolute_path
 
 def download_pokemon_image_url(pokemon_number):
-    """Obtener la URL de la imagen del Pokémon con el número de la Pokédex proporcionado."""
-    # Eliminar ceros a la izquierda y el símbolo #
-    # Eliminar ceros a la izquierda y el símbolo #
-    cleaned_number = pokemon_number.lstrip('0#')
+    """Obtener la URL de la imagen del Pokémon con el número de la Pokédex proporcionado, sin ceros a la izquierda ni símbolo #."""
     
-    # Asegurarse de que el número tenga tres dígitos
-    cleaned_number = cleaned_number.zfill(4)
+    # Eliminar el símbolo '#' y ceros a la izquierda
+    cleaned_number = pokemon_number.lstrip('#0')
     
+    # Construir la ruta usando el número limpio
     image_url = f"imagedata/pkmon/{cleaned_number}.png"
+    
     return image_url
 
 # Definir la URL de la página web 
