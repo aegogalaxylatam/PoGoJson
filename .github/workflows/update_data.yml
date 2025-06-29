@@ -70,12 +70,7 @@ jobs:
         - name: Modify JSON File
           run: |
               echo "" >> bossraid.json
-              # echo "" >> eggs.json
-              # echo "" >> noticias.json
-              # echo "" >> rankshiny.json
-              # echo "" >> destacados.json
-              # echo "" >> raid_hour.json
-              # echo "" >> shinys.json
+             
         
         - name: Commit JSON Changes
           run: |
@@ -83,12 +78,7 @@ jobs:
             git config --local user.name "github-actions[bot]"
             git switch --orphan data
             git add bossraid.json
-            # git add eggs.json
-            # git add noticias.json
-            # git add rankshiny.json
-            # git add destacados.json
-            # git add raid_hour.json
-            # git add shinys.json
+            
             git commit -m "Datos actualizados 🤖🍺"
     
         - name: Remove Temp Folder
