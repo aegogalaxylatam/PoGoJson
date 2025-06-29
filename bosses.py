@@ -31,7 +31,7 @@ def download_pokemon_image_url(pokemon_number):
     # Asegurarse de que el número tenga tres dígitos
     cleaned_number = cleaned_number.zfill(3)
     
-    image_url = f"https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_{cleaned_number}_00.png"
+    image_url = f"{cleaned_number}.png"
     return image_url
 
 # Definir la URL de la página web
