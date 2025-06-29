@@ -29,7 +29,7 @@ def download_pokemon_image_url(pokemon_number):
     cleaned_number = pokemon_number.lstrip('0#')
     
     # Asegurarse de que el número tenga tres dígitos
-    cleaned_number = cleaned_number.zfill(3)
+    cleaned_number = cleaned_number.zfill(4)
     
     image_url = f"imagedata/pkmon/{cleaned_number}.png"
     return image_url
