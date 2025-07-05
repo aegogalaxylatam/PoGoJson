@@ -1,0 +1,151 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/25.png"
+    },
+    {
+      "No Dex": "#0133",
+      "Boss Name": "Eevee",
+      "Boss CP": "3,310",
+      "Max Capture CP": "612",
+      "Max Capture CP Bosst": "765",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/133.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0065",
+      "Boss Name": "Alakazam",
+      "Boss CP": "23,150",
+      "Max Capture CP": "1,747",
+      "Max Capture CP Bosst": "2,184",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/65.png"
+    },
+    {
+      "No Dex": "#0500",
+      "Boss Name": "Emboar",
+      "Boss CP": "17,874",
+      "Max Capture CP": "1,704",
+      "Max Capture CP Bosst": "2,130",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/500.png"
+    },
+    {
+      "No Dex": "#0609",
+      "Boss Name": "Chandelure",
+      "Boss CP": "24,085",
+      "Max Capture CP": "1,867",
+      "Max Capture CP Bosst": "2,335",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/609.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0638",
+      "Boss Name": "Cobalion",
+      "Boss CP": "39,601",
+      "Max Capture CP": "1,727",
+      "Max Capture CP Bosst": "2,159",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/638.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0306",
+      "Boss Name": "Mega Aggron",
+      "Boss CP": "46,233",
+      "Max Capture CP": "1,714",
+      "Max Capture CP Bosst": "2,143",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/306.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0081",
+      "Boss Name": "Magnemite",
+      "Boss CP": "5,141",
+      "Max Capture CP": "778",
+      "Max Capture CP Bosst": "973",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/81.png"
+    },
+    {
+      "No Dex": "#0155",
+      "Boss Name": "Cyndaquil",
+      "Boss CP": "3,334",
+      "Max Capture CP": "560",
+      "Max Capture CP Bosst": "700",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/155.png"
+    },
+    {
+      "No Dex": "#0198",
+      "Boss Name": "Murkrow",
+      "Boss CP": "4,700",
+      "Max Capture CP": "892",
+      "Max Capture CP Bosst": "1,116",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/198.png"
+    },
+    {
+      "No Dex": "#0325",
+      "Boss Name": "Spoink",
+      "Boss CP": "4,013",
+      "Max Capture CP": "762",
+      "Max Capture CP Bosst": "953",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/325.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0131",
+      "Boss Name": "Lapras",
+      "Boss CP": "15,650",
+      "Max Capture CP": "1,509",
+      "Max Capture CP Bosst": "1,886",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/131.png"
+    },
+    {
+      "No Dex": "#0221",
+      "Boss Name": "Piloswine",
+      "Boss CP": "15,333",
+      "Max Capture CP": "1,340",
+      "Max Capture CP Bosst": "1,675",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/221.png"
+    },
+    {
+      "No Dex": "#0533",
+      "Boss Name": "Gurdurr",
+      "Boss CP": "15,054",
+      "Max Capture CP": "1,239",
+      "Max Capture CP Bosst": "1,549",
+      "Shiny": "No",
+      "Pokemon Image": "imagedata/pkmon/533.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0379",
+      "Boss Name": "Registeel",
+      "Boss CP": "33,516",
+      "Max Capture CP": "1,398",
+      "Max Capture CP Bosst": "1,748",
+      "Shiny": "Yes",
+      "Pokemon Image": "imagedata/pkmon/379.png"
+    }
+  ]
+}
